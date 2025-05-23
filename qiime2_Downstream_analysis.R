@@ -1,4 +1,3 @@
-#BiocManager::install("rcompanion")
 library(ggplot2)
 library(reshape2)
 library(microeco)
